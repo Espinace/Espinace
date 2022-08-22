@@ -1,7 +1,7 @@
 ### Ola me chamo Bruno Espinace! (Hi there I'm Bruno Espinace)
 
-- 🔭 Hoje trabalho como Desenvolvedor Java
-  (I’m currently working as a Java Developer)
+- 🔭 Hoje trabalho como Analista Desenvolvedor Java
+  (I’m currently working as a Java Analyst Developer)
 - 🌱 Estudando Android, JS e Flutter
   (I’m currently learning Android, JS e Flutter)
 - 😄 Pronomes: ele/dele
